@@ -52,3 +52,6 @@ Essa nova implementação estabeleceu um meio genérico para que o Servidor obte
 [Colleague.cs](https://github.com/jotacisio/JotaoEletro_Padronizado/blob/master/Programa%20lojas%20Jot%C3%A3o%20Eletros/Colleague.cs) |
 [Program.cs](https://github.com/jotacisio/JotaoEletro_Padronizado/blob/master/Programa%20lojas%20Jot%C3%A3o%20Eletros/Program.cs) 
 
+### Programa Executável
+- Versão Atual -
+[JotaoEletros.exe](https://raw.githubusercontent.com/jotacisio/JotaoEletro_Padronizado/master/Programa%20lojas%20Jot%C3%A3o%20Eletros/bin/Release/Programa%20lojas%20Jot%C3%A3o%20Eletros.exe)
