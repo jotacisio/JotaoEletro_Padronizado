@@ -1,0 +1,5 @@
+E:\Projects\Lojas Jotão Eletros\Backup\Programa lojas Jotão Eletros\bin\Release\Programa lojas Jotão Eletros.exe
+E:\Projects\Lojas Jotão Eletros\Backup\Programa lojas Jotão Eletros\bin\Release\Programa lojas Jotão Eletros.pdb
+E:\Projects\Lojas Jotão Eletros\Backup\Programa lojas Jotão Eletros\obj\Release\Programa lojas Jotão Eletros.csprojResolveAssemblyReference.cache
+E:\Projects\Lojas Jotão Eletros\Backup\Programa lojas Jotão Eletros\obj\Release\Programa lojas Jotão Eletros.exe
+E:\Projects\Lojas Jotão Eletros\Backup\Programa lojas Jotão Eletros\obj\Release\Programa lojas Jotão Eletros.pdb
